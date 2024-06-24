@@ -65,6 +65,10 @@ ol li{
     position: relative;
     top: 240px;
 }
+iframe{
+    margin: auto;
+    border-radius: 25px;
+}
 
 footer{
     position: relative;
@@ -111,7 +115,8 @@ footer{
         font-size: 28px;
         margin-top: 65px;
     }
-    .intro p{
-       
+    iframe{
+        width: 320px;
+        border-radius: 25px;
     }
 }
